@@ -23,5 +23,5 @@ try {
         $options
     );
 } catch (PDOException $ex) {
-    exit('Database connection failed. Check your DB_* settings.');
+    exit('Database connection failed: ' . $ex->getMessage());
 }
