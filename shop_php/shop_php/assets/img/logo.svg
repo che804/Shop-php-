@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 110" role="img" aria-label="SHOP & TUFF">
-  <path d="M60 24 a9 9 0 1 1 9 9 v7" fill="none" stroke="#16233b" stroke-width="4" stroke-linecap="round"/>
-  <path d="M69 40 L18 74 Q11 80 19 80 H119 Q127 80 120 74 Z" fill="none" stroke="#16233b" stroke-width="4" stroke-linejoin="round"/>
-  <line x1="19" y1="80" x2="119" y2="80" stroke="#d98b1f" stroke-width="3" stroke-dasharray="5 4"/>
-  <text x="140" y="68" font-family="'Barlow Condensed','Arial Narrow',Arial,sans-serif" font-size="44" font-weight="700" fill="#16233b">SHOP<tspan fill="#d98b1f">&amp;</tspan>TUFF</text>
-</svg>
